@@ -1,0 +1,13 @@
+h1{
+  padding: 30px;
+  align-content: center;
+  color: blue;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+table th{
+  padding:5px;
+}
